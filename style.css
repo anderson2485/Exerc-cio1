@@ -1,0 +1,18 @@
+. principal {
+    exibição : flexível;
+    flex-direction : coluna;
+    justificar-conteúdo : centro;
+    itens de alinhamento : centro;
+    largura :  100 vw ;
+    altura :  100 vh ;
+}
+. artigo {
+  exibição : bloco;
+}
+. item . ativo {
+  exibição : bloco;
+}
+. img {
+ largura :  150 px ;
+ altura :  150 px ;
+}
